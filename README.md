@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Bauti123456789
-- 👀 I’m interested in nose
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me ig-baujantus
-- 😄 Pronouns: normal
-- ⚡ Fun fact: welcome to the fiesta punky dale hasta abajo perreo infraganty
+
